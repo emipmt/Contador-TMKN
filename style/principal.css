@@ -1,0 +1,46 @@
+*{
+padding: 00px;
+margin: 00px;
+
+}
+
+body{
+	background: #333;
+	font-family: corbel;
+	color: white;
+	
+
+}
+
+.contenedor{
+
+padding-top: 20px;
+}
+.contenedorindex{
+
+padding-top: 70px;
+margin-left: 10px;
+
+}
+.contenedorcabecera{
+
+padding-top: 60px;
+padding-left: 10px;
+float: fixed;
+
+
+}
+.señaladordepagina{
+ float: fixed;
+border-bottom-left-radius:5px;
+font-size: 13px; 
+color: #01A9DB; 
+background:#111; 
+padding-right: 5px; 
+padding-left: 5px; 
+padding-bottom: 5px;  
+padding-top: 0px;
+
+
+}
+

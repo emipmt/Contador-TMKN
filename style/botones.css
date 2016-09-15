@@ -1,0 +1,38 @@
+*{
+	padding: 00px;
+	margin: 00px;
+
+}
+
+.btnblue{
+
+
+	background: #319F7B;
+	padding: 10px;
+	margin-right: 10px;
+	font-size: 16PX;
+}
+
+
+.btnblue:hover{
+
+
+	background: #04B486;
+}
+
+
+.btnbluesubmit{
+
+
+	background: #319F7B;
+	
+	margin-right: 10px;
+	font-size: 16PX;
+}
+
+
+.btnbluesubmit:hover{
+
+
+	background: #04B486;
+}
